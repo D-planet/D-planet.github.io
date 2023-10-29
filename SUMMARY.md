@@ -22,7 +22,8 @@
 
 ## Use Cases
 
-* [🎨 FCH Community](use-cases/fch-community.md)
+* [🎨 FCH Community](use-cases/fch-community/README.md)
+  * [Fund for builders](use-cases/fch-community/fund-for-builders.md)
 
 ## Join us
 
