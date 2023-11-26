@@ -20,6 +20,16 @@
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
+***
+
+* [Project type](project-type/README.md)
+  * [General](project-type/general/README.md)
+    * [General project](project-type/general/general-project.md)
+    * [Solo bounty missions](project-type/general/solo-bounty-missions.md)
+    * [Repeatable bounty missions](project-type/general/repeatable-bounty-missions.md)
+    * [Teamwork bounty missions(Assign reward)](project-type/general/teamwork-bounty-missions-assign-reward.md)
+    * [Teamwork bounty mission(Negotiate reward)](project-type/general/teamwork-bounty-mission-negotiate-reward.md)
+
 ## Use Cases
 
 * [🎨 FCH Community](use-cases/fch-community/README.md)
