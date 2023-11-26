@@ -29,6 +29,9 @@
     * [Repeatable bounty missions](project-type/general/repeatable-bounty-missions.md)
     * [Teamwork bounty missions(Assign reward)](project-type/general/teamwork-bounty-missions-assign-reward.md)
     * [Teamwork bounty mission(Negotiate reward)](project-type/general/teamwork-bounty-mission-negotiate-reward.md)
+  * [Copy of General](project-type/copy-of-general/README.md)
+    * [Consensus contribute project](project-type/copy-of-general/consensus-contribute-project.md)
+    * [Hackathon project](project-type/copy-of-general/hackathon-project.md)
 
 ## Use Cases
 
